@@ -1,10 +1,9 @@
 //SPDX-License-Identifier: Unlicense
 
 // contracts/BuyMeACoffee.sol
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.17;
 
-// Switch this to your own contract address once deployed, for bookkeeping!
-// Example Contract Address on Goerli: 0x75a6222731497009A70d4B36Aa6A400c8774bCf9
+// My Contract Address on Goerli: 0x75a6222731497009A70d4B36Aa6A400c8774bCf9
 
 contract BuyMeACoffee {
     // Event to emit when a Memo is created.
